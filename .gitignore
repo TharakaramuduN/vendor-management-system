@@ -1,0 +1,55 @@
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.pyc
+*~
+
+# Database files
+db.sqlite3
+
+# Static files
+staticfiles/
+
+# Media files
+media/
+
+# Environment configuration
+.env
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+logs/
+
+# Secrets
+.env
+.env.*
+secrets.json
+
+# Dependency management
+node_modules/
+yarn-error.log
+package-lock.json
+Pipfile.lock
+
+# Temporary files
+.DS_Store
+Thumbs.db
+
+# Django specific files
+.coverage
+.cache/
+.pytest_cache/
+
+# Miscellaneous
+*.log
+*.swp
